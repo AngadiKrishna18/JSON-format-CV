@@ -1,0 +1,80 @@
+{
+  "name": "Angadi Krishna",
+  "contact_info": {
+    "linkedin": "https://www.linkedin.com/in/angadi-krishna",
+    "email": "angadikrishna65@gmail.com",
+    "github": "https://github.com/AngadiKrishna",
+    "mobile": "+91-6303766527"
+  },
+  "skills_summary": {
+    "languages": ["C", "Java", "Python"],
+    "frameworks": ["HTML", "CSS"],
+    "tools_platforms": ["MySQL", "Tableau"],
+    "soft_skills": [
+      "Problem-Solving Skills",
+      "Team Player",
+      "Project Management",
+      "Adaptability"
+    ]
+  },
+  "summer_training": [
+    {
+      "organization": "GeeksForGeeks",
+      "duration": "June 2023 – July 2023",
+      "role": "Data Science trainee",
+      "responsibilities": [
+        "Detected and tracked bugs and inconsistencies in the field of Data Analysis.",
+        "Performed automated and manual tests to ensure the software created by developers is up to date and working seamlessly.",
+        "Gained hands-on experience in developing, implementing, and maintaining projects based on Python, data analysis, DBMS, and Machine Learning applications."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sentimental Analysis",
+      "date": "Sept 2023",
+      "description": "Developed Sentimental Analysis project focusing on Exploratory Data Analysis (EDA) in Python. Utilized Python for programming emphasizing efficient data handling and visualization."
+    },
+    {
+      "name": "Restaurant Management System",
+      "date": "Aug 2022",
+      "description": "Leveraged Python's extensive libraries to streamline operations and enhance efficiency. Incorporated features for menu management, table reservations, and order tracking ensuring a seamless dining experience."
+    },
+    {
+      "name": "Blood Bank Website",
+      "date": "June 2022",
+      "description": "Designed and developed a website using HTML, JavaScript, and CSS. Employed modern web design principles for a visually appealing and user-friendly interface."
+    }
+  ],
+  "achievements": [
+    "5 Star Rating in Python on HackerRank.",
+    "4 Star Rating in Java on HackerRank."
+  ],
+  "certificates": [
+    "Data Science course from GeeksForGeeks",
+    "C++ Python DBMS from ISSO Certified Associate"
+  ],
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "location": "Punjab, India",
+      "degree": "Bachelor of Technology – Computer Science and Engineering with a major in AI and ML",
+      "cgpa": "6.58",
+      "start_date": "August 2021"
+    },
+    {
+      "institution": "Sri Chaitanya PU College",
+      "location": "Havambavi, Bellary",
+      "qualification": "Intermediate",
+      "percentage": "90%",
+      "duration": "April 2019 – March 2021"
+    },
+    {
+      "institution": "Adarsh Vidhalaya School",
+      "location": "Siruguppa, Karnataka",
+      "qualification": "Matriculation",
+      "percentage": "83%",
+      "duration": "April 2016 – March 2016"
+    }
+  ]
+}
